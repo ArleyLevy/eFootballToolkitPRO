@@ -20,5 +20,19 @@
     "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "4/zMwBEYUtiuyape/qR/GSF3EnKNERMdwAYdg3LKAtzN3od3ZgWioVkbgDtSXUkT3ZXHZRRQX0IBFteWXqWmAA=="
+  "signature": "mW3q+fiFOUvLp2TSuoaFl+mBTgHvmM02fj/L+bG0DByYieCw+ZlNOAGATbD5q/1WKFlbrgX9SYADho+yxQN7Bw==",
+  "eft_match": {
+    "product": "eft-match",
+    "platform": "windows-x64",
+    "version": "0.2.0",
+    "build_number": 3,
+    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.0/EFT-MATCH-0.2.0-win64.zip",
+    "package_format": "zip-onedir",
+    "sha256": "3D1DDBFA366F1E3AFC496DD228B020975614D78A99359146BC0E95DBB949810D",
+    "size_bytes": 12893245,
+    "notes": "Português e inglês na interface e no overlay, com idioma salvo. Janela compacta com rodapé fixo e espaçamento revisado. Nick salvo automaticamente. Atualizador exclusivo do EFT MATCH com verificação de assinatura e SHA-256.",
+    "mandatory": false,
+    "notes_en": "Portuguese and English interface and overlay, with saved language preference. Compact window with a fixed footer and revised spacing. Nickname saved automatically. Dedicated EFT MATCH updater with signature and SHA-256 verification.",
+    "published_at": "2026-09-07T18:26:36.932438Z"
+  }
 }
