@@ -20,19 +20,19 @@
     "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "Eyhm4Kn5sFI0zGduHYGIYQvc1yPo8kVDWjk6wIHvdD+FDcGw+U1HaLL5BLzEEA48W//XokOZhpO5kZ0E9wEKDw==",
+  "signature": "R2zxortCwSEiwNTHGxMcjmWZv96BMQyMlKVeJqB+HECCqt7ZP9BdDpwrSqSPpjpylFlBM0HkM8jUiwwwNPRtDg==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
-    "version": "0.2.1",
-    "build_number": 4,
-    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.1/EFT-MATCH-0.2.1-win64.zip",
+    "version": "0.2.2",
+    "build_number": 5,
+    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.2/EFT-MATCH-0.2.2-win64.zip",
     "package_format": "zip-onedir",
-    "sha256": "CD03253693747C497E37708125D9D9B2A2FC50156729F1F249CC499E7D7B453B",
-    "size_bytes": 12898163,
-    "notes": "Suporte ao eFootball Xbox PC nas versões validadas, além da Steam. Mantém a interface compacta PT/EN e o overlay com os dados disponíveis da partida.",
-    "mandatory": false,
-    "notes_en": "Support for validated eFootball Xbox PC versions alongside Steam. Includes the compact Portuguese/English interface and overlay with available match details.",
-    "published_at": "2026-09-07T20:41:37.205400Z"
+    "sha256": "DE361A04F9420C90B1D42BE0F9F170CF24EEFD43F52D752A925DB9C85FC48DD5",
+    "size_bytes": 12899504,
+    "notes": "Saudação com o nome do cliente vinculado à licença. Atualização obrigatória com verificações automáticas durante o uso. Guias do usuário em português e inglês revisados. Ativação e preferências preservadas.",
+    "mandatory": true,
+    "notes_en": "Greeting with the customer name linked to your license. Required updates with automatic checks during use. Revised Portuguese and English user guides. Activation and preferences are preserved.",
+    "published_at": "2026-09-08T01:21:09.074659Z"
   }
 }
