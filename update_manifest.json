@@ -20,7 +20,7 @@
     "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "R2zxortCwSEiwNTHGxMcjmWZv96BMQyMlKVeJqB+HECCqt7ZP9BdDpwrSqSPpjpylFlBM0HkM8jUiwwwNPRtDg==",
+  "signature": "4CaQAxn+P/LVhTufSFcGWuoqv7AUA5t4wWOyeoD/dNebDku5bPJe8GI50TPmHVXnfsmWhQnQchhEGpYCTxoxBA==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
@@ -34,5 +34,17 @@
     "mandatory": true,
     "notes_en": "Greeting with the customer name linked to your license. Required updates with automatic checks during use. Revised Portuguese and English user guides. Activation and preferences are preserved.",
     "published_at": "2026-09-08T01:21:09.074659Z"
+  },
+  "eft_match_module": {
+    "product": "eft-match-module",
+    "platform": "windows-x64",
+    "abi": 1,
+    "version": "1.0.0",
+    "minimum_toolkit_version": "2.3.1",
+    "package_format": "dll",
+    "download_url": "https://eft-match-modules.arley-efootball-toolkit.workers.dev/v1/eft-match/module",
+    "download_auth": "eft-license-v1",
+    "sha256": "4dd846cf006cc55eb2c99d7a03428e994340075a1e8fac37f251257188df6a22",
+    "size_bytes": 509440
   }
 }
