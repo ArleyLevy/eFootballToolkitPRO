@@ -2,14 +2,14 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.3.2",
-  "published_at": "2026-09-08T17:56:06Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.2/eFootball-Toolkit-PRO-v2.3.2.zip",
+  "version": "2.3.3",
+  "published_at": "2026-09-09T10:58:07Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.3/eFootball-Toolkit-PRO-v2.3.3.zip",
   "package_format": "zip-onedir",
-  "sha256": "00A35A2B58A656FDF5FB89636DF865DD0284ADD453E11A01389CA93A75A341B4",
-  "size_bytes": 18015335,
-  "notes": "## Português — Toolkit PRO 2.3.2\n\nAgora você pode usar o EFT MATCH diretamente no Toolkit, sem abrir um segundo aplicativo!\n\nQuem possui as duas licenças para o mesmo PC pode ativar sua chave do EFT MATCH em Configurações → EFT MATCH e usar os dois em um só. Também é possível iniciar o EFT MATCH automaticamente ao abrir o Toolkit.\n\nO EFT MATCH é opcional e exige licença própria válida. Os recursos do Toolkit continuam funcionando normalmente para quem não utiliza o EFT MATCH.\n\nEsta versão também melhora a compatibilidade na inicialização do aplicativo.\n\n## English — Toolkit PRO 2.3.2\n\nYou can now use EFT MATCH directly inside Toolkit, without opening a second app!\n\nIf you have both licenses for the same PC, activate your EFT MATCH key in Settings → EFT MATCH and use both in one app. You can also choose to start EFT MATCH automatically when opening Toolkit.\n\nEFT MATCH is optional and requires its own valid license. Toolkit features continue to work normally for users who do not use EFT MATCH.\n\nThis version also improves compatibility when launching the app.",
-  "mandatory": false,
+  "sha256": "078E67EAFDA7B8E75DB8919FD86C6AD9D9ADD6FB6626BEDAD6B04E225BF2B8F9",
+  "size_bytes": 18027902,
+  "notes": "## Português — ATUALIZAÇÃO DE SEGURANÇA\n\nToolkit PRO 2.3.3\n\n- Melhorias de segurança e estabilidade na integração do EFT MATCH.\n- Atualização da compatibilidade do módulo para continuar usando o EFT MATCH dentro do Toolkit.\n- Esta atualização é obrigatória. Instale a nova versão para continuar usando o aplicativo.\n\nSua licença e suas configurações salvas são mantidas. O EFT MATCH continua opcional e exige uma licença própria válida para o mesmo PC. É necessário manter a conexão com a internet durante seu uso.\n\n## English — SECURITY UPDATE\n\nToolkit PRO 2.3.3\n\n- Security and stability improvements for the EFT MATCH integration.\n- Updated module compatibility to keep using EFT MATCH inside Toolkit.\n- This update is required. Install the new version to continue using the app.\n\nYour license and saved settings are preserved. EFT MATCH remains optional and requires its own valid license for the same PC. An internet connection is required throughout its use.",
+  "mandatory": true,
   "android": {
     "version": "2.3.1",
     "build_number": 10,
@@ -20,7 +20,7 @@
     "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "2wCuB/PVdrqD08D0M3JFhiF4Rq8YF8mb1LZbdl4B+tvL3shCyNt1CYWa0jVWm807hWXoWbxmWceyJTcXQ5E5DQ==",
+  "signature": "ZPhbxl1g1bg5gD36bPyQywbwzV2OsWt3J0iU9AjPoQHKtzXF46aofnAisLx2K2EG7BqQjbpqOdBYXDss0eSwAA==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
@@ -38,13 +38,13 @@
   "eft_match_module": {
     "product": "eft-match-module",
     "platform": "windows-x64",
-    "abi": 1,
-    "version": "1.0.0",
-    "minimum_toolkit_version": "2.3.1",
+    "abi": 3,
+    "version": "2.0.0",
+    "minimum_toolkit_version": "2.3.3",
     "package_format": "dll",
     "download_url": "https://eft-match-modules.arley-efootball-toolkit.workers.dev/v1/eft-match/module",
     "download_auth": "eft-license-v1",
-    "sha256": "4dd846cf006cc55eb2c99d7a03428e994340075a1e8fac37f251257188df6a22",
-    "size_bytes": 509440
+    "sha256": "49aa6a31dcd0f8f30f9848b7ed1d9b7c2e4b2b83c22d614b22be0e622ae34cd0",
+    "size_bytes": 520704
   }
 }
