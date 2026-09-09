@@ -20,20 +20,20 @@
     "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "ZPhbxl1g1bg5gD36bPyQywbwzV2OsWt3J0iU9AjPoQHKtzXF46aofnAisLx2K2EG7BqQjbpqOdBYXDss0eSwAA==",
+  "signature": "T3p33L7gbQrZvMQ4tGKAVUq1I7oiy/Clj3C76Avewbappj6WVlEuQ4/fd4PRDBpJJgsQcFEDY62Hsia1HyscBA==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
-    "version": "0.2.2",
-    "build_number": 5,
-    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.2/EFT-MATCH-0.2.2-win64.zip",
+    "version": "0.2.3",
+    "build_number": 6,
+    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.3/EFT-MATCH-0.2.3-win64.zip",
     "package_format": "zip-onedir",
-    "sha256": "DE361A04F9420C90B1D42BE0F9F170CF24EEFD43F52D752A925DB9C85FC48DD5",
-    "size_bytes": 12899504,
-    "notes": "Saudação com o nome do cliente vinculado à licença. Atualização obrigatória com verificações automáticas durante o uso. Guias do usuário em português e inglês revisados. Ativação e preferências preservadas.",
+    "sha256": "792235A6FF18C00E91FA80F5E5DC3EED393BB2B7C20FB5652B3326BE7221112F",
+    "size_bytes": 12978909,
+    "notes": "Melhorias importantes de segurança, estabilidade e proteção dos componentes internos. Esta é uma atualização obrigatória para continuar utilizando o EFT MATCH.",
     "mandatory": true,
-    "notes_en": "Greeting with the customer name linked to your license. Required updates with automatic checks during use. Revised Portuguese and English user guides. Activation and preferences are preserved.",
-    "published_at": "2026-09-08T01:21:09.074659Z"
+    "notes_en": "Important improvements to security, stability and protection of internal components. This update is required to continue using EFT MATCH.",
+    "published_at": "2026-09-09T11:47:27.835537Z"
   },
   "eft_match_module": {
     "product": "eft-match-module",

@@ -190,6 +190,16 @@ The device code was hidden in the public screenshot for security.
 
 ## Download
 
+### EFT MATCH 0.2.3
+
+[Download EFT MATCH 0.2.3 for Windows](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.3/EFT-MATCH-0.2.3-win64.zip) · [User guide](docs/eft-match/README.txt) · [Website and tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
+
+Important improvements to security, stability and protection of internal components. This update is required to continue using EFT MATCH.
+
+Requires Windows 10/11 64-bit, Steam or Xbox PC, internet throughout use and a separate EFTM license. Npcap is not required. Extract the entire folder and run EFT_MATCH.exe as administrator.
+
+### Toolkit
+
 - [Download eFootball Toolkit PRO 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-PRO-v2.3.1.zip)
 - [Download eFootball Toolkit TRIAL 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.3.1/eFootball-Toolkit-TRIAL-v2.3.1.zip)
 - [Download eFootball Toolkit Mobile 2.3.1 — build 10](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-Mobile-v2.3.1-build10.apk)

@@ -1,5 +1,11 @@
 # Histórico de versões
 
+## EFT MATCH 0.2.3 — 09/09/2026
+
+Melhorias importantes de segurança, estabilidade e proteção dos componentes internos. Esta é uma atualização obrigatória para continuar utilizando o EFT MATCH.
+
+Important improvements to security, stability and protection of internal components. This update is required to continue using EFT MATCH.
+
 ## eFootball Toolkit Mobile 2.3.1 — build 10
 
 - Dispositivos sem nome podem ser renomeados na seleção do OpenWrt pelo botão de lápis.
