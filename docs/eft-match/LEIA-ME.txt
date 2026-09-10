@@ -1,4 +1,4 @@
-EFT MATCH — 0.2.3 — Windows x64
+EFT MATCH — 0.2.4 — Windows x64
 
 GUIA RÁPIDO
 For the English guide, see README.txt.
@@ -31,7 +31,7 @@ PREFERÊNCIAS
 - Use janela sem bordas se o overlay não aparecer em tela cheia exclusiva.
 
 ATUALIZAÇÕES
-A versão 0.2.3 é obrigatória para continuar utilizando o EFT MATCH.
+Mantenha o EFT MATCH atualizado para continuar recebendo melhorias e suporte.
 Melhorias importantes de segurança, estabilidade e proteção dos componentes internos.
 O EFT MATCH verifica atualizações ao abrir e periodicamente durante o uso.
 Você também pode usar o botão Atualizações.

@@ -1,4 +1,4 @@
-EFT MATCH — 0.2.3 — Windows x64
+EFT MATCH — 0.2.4 — Windows x64
 
 QUICK START GUIDE
 Para o guia em português, consulte LEIA-ME.txt.
@@ -31,7 +31,7 @@ PREFERENCES
 - Use borderless windowed mode if the overlay does not appear in exclusive fullscreen.
 
 UPDATES
-Version 0.2.3 is required to continue using EFT MATCH.
+Keep EFT MATCH updated to continue receiving improvements and support.
 Important improvements to security, stability and protection of internal components.
 EFT MATCH checks for updates at startup and periodically during use.
 You can also use the Updates button.

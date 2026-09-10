@@ -2,14 +2,14 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.3.3",
-  "published_at": "2026-09-09T10:58:07Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.3/eFootball-Toolkit-PRO-v2.3.3.zip",
+  "version": "2.3.4",
+  "published_at": "2026-09-10T21:20:55.166679Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.4/eFootball-Toolkit-PRO-v2.3.4.zip",
   "package_format": "zip-onedir",
-  "sha256": "078E67EAFDA7B8E75DB8919FD86C6AD9D9ADD6FB6626BEDAD6B04E225BF2B8F9",
-  "size_bytes": 18027902,
-  "notes": "## Português — ATUALIZAÇÃO DE SEGURANÇA\n\nToolkit PRO 2.3.3\n\n- Melhorias de segurança e estabilidade na integração do EFT MATCH.\n- Atualização da compatibilidade do módulo para continuar usando o EFT MATCH dentro do Toolkit.\n- Esta atualização é obrigatória. Instale a nova versão para continuar usando o aplicativo.\n\nSua licença e suas configurações salvas são mantidas. O EFT MATCH continua opcional e exige uma licença própria válida para o mesmo PC. É necessário manter a conexão com a internet durante seu uso.\n\n## English — SECURITY UPDATE\n\nToolkit PRO 2.3.3\n\n- Security and stability improvements for the EFT MATCH integration.\n- Updated module compatibility to keep using EFT MATCH inside Toolkit.\n- This update is required. Install the new version to continue using the app.\n\nYour license and saved settings are preserved. EFT MATCH remains optional and requires its own valid license for the same PC. An internet connection is required throughout its use.",
-  "mandatory": true,
+  "sha256": "0E1BB509CEAB7BF0CB21D0F961D463A84F71ED14C638C07B259B8B0389DD3D19",
+  "size_bytes": 18060004,
+  "notes": "## Português\n\n- Melhorias na marcação e nos alertas de reencontro por conta para usuários da expansão EFT MATCH.\n- Aviso antecipado de jogador marcado; o bloqueio aguarda a identificação da conexão atual.\n- Plataforma do adversário no overlay do EFT MATCH e posição da janela salva.\n- Melhorias de estabilidade.\n\nO EFT MATCH continua opcional e exige licença própria válida para o mesmo PC. Quem não utiliza a expansão mantém o funcionamento habitual do Toolkit. Licenças e configurações salvas são preservadas.\n\n## English\n\n- Improved account-based marking and rematch alerts for EFT MATCH expansion users.\n- Early marked-player warning; blocking waits for the current connection to be identified.\n- Opponent platform in the EFT MATCH overlay and saved window position.\n- Stability improvements.\n\nEFT MATCH remains optional and requires its own valid license for the same PC. Toolkit continues to work as usual without the expansion. Saved licenses and settings are preserved.\n",
+  "mandatory": false,
   "android": {
     "version": "2.3.1",
     "build_number": 10,
@@ -20,20 +20,20 @@
     "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "T3p33L7gbQrZvMQ4tGKAVUq1I7oiy/Clj3C76Avewbappj6WVlEuQ4/fd4PRDBpJJgsQcFEDY62Hsia1HyscBA==",
+  "signature": "jCX4aFujQ26rAf9VgQHEa7YYsiV8IGnJTd+X/7E83g/aTWQbgl1ddJ6yxxjCn0BRMsDFm91+3p/G419KhqC7Bg==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
-    "version": "0.2.3",
-    "build_number": 6,
-    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.3/EFT-MATCH-0.2.3-win64.zip",
+    "version": "0.2.4",
+    "build_number": 7,
+    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.4/EFT-MATCH-0.2.4-win64.zip",
     "package_format": "zip-onedir",
-    "sha256": "792235A6FF18C00E91FA80F5E5DC3EED393BB2B7C20FB5652B3326BE7221112F",
-    "size_bytes": 12978909,
-    "notes": "Melhorias importantes de segurança, estabilidade e proteção dos componentes internos. Esta é uma atualização obrigatória para continuar utilizando o EFT MATCH.",
-    "mandatory": true,
-    "notes_en": "Important improvements to security, stability and protection of internal components. This update is required to continue using EFT MATCH.",
-    "published_at": "2026-09-09T11:47:27.835537Z"
+    "sha256": "3F693CC3E73EC3DCD428AEA9319612199657C4E002E41F9D603BCC28FAB38DC2",
+    "size_bytes": 13105917,
+    "notes": "Plataforma do adversário no overlay, posição da janela salva e melhorias de estabilidade.",
+    "mandatory": false,
+    "notes_en": "Opponent platform in the overlay, saved window position and stability improvements.",
+    "published_at": "2026-09-10T21:20:55.166679Z"
   },
   "eft_match_module": {
     "product": "eft-match-module",
@@ -44,7 +44,7 @@
     "package_format": "dll",
     "download_url": "https://eft-match-modules.arley-efootball-toolkit.workers.dev/v1/eft-match/module",
     "download_auth": "eft-license-v1",
-    "sha256": "49aa6a31dcd0f8f30f9848b7ed1d9b7c2e4b2b83c22d614b22be0e622ae34cd0",
-    "size_bytes": 520704
+    "sha256": "166fadf95f6443d41d1ceb57b4de117a847fdf79710c45837ab821b177cba323",
+    "size_bytes": 737280
   }
 }
