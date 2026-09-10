@@ -8,8 +8,8 @@
   "package_format": "zip-onedir",
   "sha256": "0E1BB509CEAB7BF0CB21D0F961D463A84F71ED14C638C07B259B8B0389DD3D19",
   "size_bytes": 18060004,
-  "notes": "## Português\n\n- Melhorias na marcação e nos alertas de reencontro por conta para usuários da expansão EFT MATCH.\n- Aviso antecipado de jogador marcado; o bloqueio aguarda a identificação da conexão atual.\n- Plataforma do adversário no overlay do EFT MATCH e posição da janela salva.\n- Melhorias de estabilidade.\n\nO EFT MATCH continua opcional e exige licença própria válida para o mesmo PC. Quem não utiliza a expansão mantém o funcionamento habitual do Toolkit. Licenças e configurações salvas são preservadas.\n\n## English\n\n- Improved account-based marking and rematch alerts for EFT MATCH expansion users.\n- Early marked-player warning; blocking waits for the current connection to be identified.\n- Opponent platform in the EFT MATCH overlay and saved window position.\n- Stability improvements.\n\nEFT MATCH remains optional and requires its own valid license for the same PC. Toolkit continues to work as usual without the expansion. Saved licenses and settings are preserved.\n",
-  "mandatory": false,
+  "notes": "## Português\n\n- Melhorias na marcação e nos alertas de reencontro por conta para usuários da expansão EFT MATCH.\n- Aviso antecipado de jogador marcado; o bloqueio aguarda a identificação da conexão atual.\n- Plataforma do adversário no overlay do EFT MATCH e posição da janela salva.\n- Melhorias de estabilidade.\n\nO EFT MATCH continua opcional e exige licença própria válida para o mesmo PC. Quem não utiliza a expansão mantém o funcionamento habitual do Toolkit. Licenças e configurações salvas são preservadas.\n\n## English\n\n- Improved account-based marking and rematch alerts for EFT MATCH expansion users.\n- Early marked-player warning; blocking waits for the current connection to be identified.\n- Opponent platform in the EFT MATCH overlay and saved window position.\n- Stability improvements.\n\nEFT MATCH remains optional and requires its own valid license for the same PC. Toolkit continues to work as usual without the expansion. Saved licenses and settings are preserved.\n\n\nEsta atualização é obrigatória para continuar utilizando o aplicativo.\nThis update is required to continue using the application.",
+  "mandatory": true,
   "android": {
     "version": "2.3.1",
     "build_number": 10,
@@ -20,7 +20,7 @@
     "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "jCX4aFujQ26rAf9VgQHEa7YYsiV8IGnJTd+X/7E83g/aTWQbgl1ddJ6yxxjCn0BRMsDFm91+3p/G419KhqC7Bg==",
+  "signature": "1kogP0lLvax7KIy8c380HNbDcqhcXtPCUfYlhjWpMl1svbp0nGvXXhJRTyks9jLlz2/l8IiZcBaSHjhxLvnqAQ==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
@@ -30,9 +30,9 @@
     "package_format": "zip-onedir",
     "sha256": "3F693CC3E73EC3DCD428AEA9319612199657C4E002E41F9D603BCC28FAB38DC2",
     "size_bytes": 13105917,
-    "notes": "Plataforma do adversário no overlay, posição da janela salva e melhorias de estabilidade.",
-    "mandatory": false,
-    "notes_en": "Opponent platform in the overlay, saved window position and stability improvements.",
+    "notes": "Plataforma do adversário no overlay, posição da janela salva e melhorias de estabilidade.\n\nEsta atualização é obrigatória para continuar utilizando o aplicativo.",
+    "mandatory": true,
+    "notes_en": "Opponent platform in the overlay, saved window position and stability improvements.\n\nThis update is required to continue using the application.",
     "published_at": "2026-09-10T21:20:55.166679Z"
   },
   "eft_match_module": {
